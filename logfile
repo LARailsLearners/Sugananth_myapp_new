@@ -1,0 +1,8 @@
+LOG:  database system shutdown was interrupted; last known up at 2015-05-23 04:59:04 PDT
+LOG:  WAL file is from different database system: WAL file database system identifier is 6152015994153359636, pg_control database system identifier is 6145459833174240233.
+LOG:  invalid primary checkpoint record
+LOG:  WAL file is from different database system: WAL file database system identifier is 6152015994153359636, pg_control database system identifier is 6145459833174240233.
+LOG:  invalid secondary checkpoint record
+PANIC:  could not locate a valid checkpoint record
+LOG:  startup process (PID 733) was terminated by signal 6: Abort trap
+LOG:  aborting startup due to startup process failure
